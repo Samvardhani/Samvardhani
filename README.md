@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samvardhani</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif">
 
-<img align="right" alt="coding" width="300" src="">
 
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif" alt="samvardhani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samvardhani&label=Profile%20views&color=0e75b6&style=flat" alt="samvardhani" /> </p>
 
 - 🌱 I’m currently learning **React, DevOps.**
 
